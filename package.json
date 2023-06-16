@@ -23,7 +23,9 @@
     "@babel/runtime": "^7.15.4",
     "@jasonsoft/koa-controller": "^2.0.1",
     "@koa/router": "^10.1.1",
-    "koa": "^2.13.3"
+    "co-body": "^6.1.0",
+    "koa": "^2.13.3",
+    "reflect-metadata": "^0.1.13"
   },
   "devDependencies": {
     "@babel/core": "^7.15.5",
